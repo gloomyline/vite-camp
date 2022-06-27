@@ -97,9 +97,9 @@ npm i
 
 When you use this template, try follow the checklist to update your info properly
 
-- [ ] Change the author name in `LICENSE`
-- [ ] Change the author name in `package.json`
-- [ ] Change the title in `.env`
+- [x] Change the author name in `LICENSE`
+- [x] Change the author name in `package.json`
+- [x] Change the title in `.env`
 - [ ] Change the favicon in `public`
 - [ ] Clean up the `README` and remove routes
 

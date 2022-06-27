@@ -1,7 +1,7 @@
 {
-  "name": "vitecamp",
-  "version": "0.0.0",
-  "author": "菜猫子neko",
+  "name": "vite-camp",
+  "version": "1.0.0",
+  "author": "gloomyline",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
